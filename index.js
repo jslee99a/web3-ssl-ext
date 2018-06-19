@@ -1,3 +1,3 @@
 'use strict'
 
-module.exports = require('./lib/httpProvider');
+module.exports = require('./lib/httpsProvider');
