@@ -1,6 +1,6 @@
 {
-  "name": "web3-ssl-ext",
-  "version": "0.1.0",
+  "name": "web3-ssl-ext-test",
+  "version": "0.1.1",
   "description": "httpsprovider for web3js",
   "main": "index.js",
   "directories": {
