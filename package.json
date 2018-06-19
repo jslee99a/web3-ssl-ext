@@ -1,0 +1,30 @@
+{
+  "name": "web3-ssl-ext",
+  "version": "0.1.0",
+  "description": "httpsprovider for web3js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node ./example/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslee99a/web3-ssl-ext.git"
+  },
+  "keywords": [
+    "web3",
+    "ssl",
+    "tls"
+  ],
+  "author": "jongseok lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jslee99a/web3-ssl-ext/issues"
+  },
+  "homepage": "https://github.com/jslee99a/web3-ssl-ext#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.34"
+  }
+}
