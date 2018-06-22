@@ -1,15 +1,18 @@
 # web3-ssl-ext-lib
 Enable to use SSL web.js for ethereum.
 
-## Pre required
-Test Node
+## Pre required - Test Node
 ethereum client that is modified to accept https 
+
 or
+
 https proxy server for ethereum client
 
 
 ## Install 
+```bash
 npm install web3-ssl-ext-lib
+```
 
 ## Use
 ```javascript
