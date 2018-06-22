@@ -8,6 +8,8 @@ or
 
 https proxy server for ethereum client
 
+## Dependancy
+web3.js 1.0.0-X 
 
 ## Install 
 ```bash
