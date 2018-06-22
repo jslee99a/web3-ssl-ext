@@ -1,13 +1,10 @@
 {
-  "name": "web3-ssl-ext-test",
-  "version": "0.1.1",
+  "name": "web3-ssl-ext-lib",
+  "version": "0.1.4",
   "description": "httpsprovider for web3js",
   "main": "index.js",
-  "directories": {
-    "example": "example"
-  },
   "scripts": {
-    "test": "node ./example/test.js"
+    "test": "echo test"
   },
   "repository": {
     "type": "git",
@@ -19,7 +16,7 @@
     "tls"
   ],
   "author": "jongseok lee",
-  "license": "ISC",
+  "license": "LGPL-3.0",
   "bugs": {
     "url": "https://github.com/jslee99a/web3-ssl-ext/issues"
   },
